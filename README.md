@@ -5,7 +5,6 @@ This project analyzes the relationship between **age, credit limit, and default 
 - Python
 - Pandas
 - Matplotlib
-- Modular Programming
 - Configuration Management
 
 ## How to Run
