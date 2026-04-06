@@ -12,5 +12,5 @@ This project analyzes the relationship between **age, credit limit, and default 
    ```bash
    pip install pandas matplotlib
 2. Run the main program:
-  ```bash
-  python main.py
+   ```bash
+   python main.py
